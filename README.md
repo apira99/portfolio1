@@ -16,5 +16,5 @@ This is a web developer portfolio website created to showcase my skills, project
 - HTML5
 - CSS3
 - JavaScript
-- Bootstrap (optional)
+
 
