@@ -17,4 +17,9 @@ This is a web developer portfolio website created to showcase my skills, project
 - CSS3
 - JavaScript
 
+##usage
+Modify the content: Open the project files in a text editor and update the text, images, and links to match your own information and projects.
+Customize the styling: Adjust the CSS styles to personalize the appearance of your portfolio website.
+Add or remove sections: Modify the HTML structure to add new sections or remove existing ones based on your requirements.
+Update the contact form: If you want to receive contact form submissions, update the email address in the JavaScript code (script.js) to your own email.
 
