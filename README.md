@@ -16,6 +16,7 @@ This is a web developer portfolio website created to showcase my skills, project
 - HTML5
 - CSS3
 - JavaScript
+- PHP
 
 ## usage
 -Modify the content: Open the project files in a text editor and update the text, images, and links to match your own information and projects.
